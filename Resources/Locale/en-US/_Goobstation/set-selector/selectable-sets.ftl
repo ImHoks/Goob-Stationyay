@@ -120,11 +120,11 @@ selectable-set-blueshield-revolver-description =
     Includes: The EG-4 energy revolver, capable of firing bolts using
     recharging speedloaders, both lethal and not, and a shoulder holster.
 
-selectable-set-blueshield-cqc-name = close quarters combat set
-selectable-set-blueshield-cqc-description =
+selectable-set-blueshield-dragon-name = dragon kung fu set
+selectable-set-blueshield-dragon-description =
     Sometimes you need to get your hands dirty.
     Includes: A book capable of teaching the user
-    advanced close-quarters-combat.
+    Nanotrasen Dragon Kung Fu.
 
 selectable-set-blueshield-chester-name = chester set
 selectable-set-blueshield-chester-description =

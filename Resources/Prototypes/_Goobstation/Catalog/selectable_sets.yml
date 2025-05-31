@@ -312,9 +312,9 @@
     - ClothingBeltHolsterFilledBlueshield # Pistol, 1+2 lethal speedloaders and 2 disabler speedloaders
 
 - type: selectableSet
-  id: BSOCQCSet
-  name: selectable-set-blueshield-cqc-name
-  description: selectable-set-blueshield-cqc-description
+  id: BSODragonSet
+  name: selectable-set-blueshield-dragon-name
+  description: selectable-set-blueshield-dragon-description
   sprite:
     sprite: _Goobstation/Objects/Misc/martial_arts.rsi
     state: dragon
